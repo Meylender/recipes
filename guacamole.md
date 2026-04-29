@@ -3,6 +3,6 @@
 * avocado
 * lime
 * salt
+* pepper
 ## Instructions
-
-The prices of the ingredients are very high in the current economy.
+Put one avocado in a bowl
